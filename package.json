@@ -21,7 +21,6 @@
     },
     "dependencies": {
         "alpinejs": "^2.4.1",
-        "jquery": "^3.5.1",
         "select2": "^4.0.13"
     }
 }
